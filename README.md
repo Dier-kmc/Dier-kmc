@@ -32,27 +32,17 @@ Je suis un développeur passionné par l'architecture logicielle et le développ
 
 ---
 
-### 🌟 Projets Phares
-
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **LoméXpress Service** | Plateforme de gestion de livraisons optimisée pour la logistique locale. | Next.js, TypeScript |
-| **Stock Manager Pro** | Système multi-sites complexe de gestion de stocks en temps réel. | Laravel, Livewire |
-| **CocoBreath** | Concept de branding et plateforme digitale à l'esthétique minimaliste. | TALL Stack |
-
----
-
 ### 📈 Mes Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Didier" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dier-kmc&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Didier" />
 </p>
 
 ---
 
 ### 📫 Me contacter
-- **LinkedIn**: [linkedin.com/in/didier-komaclo](https://linkedin.com/in/TON_LIEN)
-- **Email**: ton.email@exemple.com
-- **Portfolio**: [didierkomaclo.dev](https://ton-portfolio.com) (En cours)
+- **LinkedIn**: [linkedin.com/in/didier-komaclo](https://www.linkedin.com/in/didier-komaclo-kmc/)
+- **Email**: komaclodidier@gmail.com
+- **Portfolio**: [didierkomaclo.dev](https://komaclodidier.me) (En cours)
 
 ---
 <p align="center">
