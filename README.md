@@ -28,15 +28,6 @@ Je suis un développeur passionné par l'architecture logicielle et le développ
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📈 Mes Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dier-kmc&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Didier" />
-</p>
-
----
-
 ### 📫 Me contacter
 - **LinkedIn**: [linkedin.com/in/didier-komaclo](https://www.linkedin.com/in/didier-komaclo-kmc/)
 - **Email**: komaclodidier@gmail.com
